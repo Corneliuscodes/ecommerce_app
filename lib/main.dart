@@ -3,7 +3,6 @@ import 'package:e_commerce_project/views/cont.dart';
 import 'package:e_commerce_project/views/home_page.dart';
 import 'package:e_commerce_project/views/splash.dart';
 import 'package:e_commerce_project/views/splash1.dart';
-import 'package:e_commerce_project/views/splash2.dart';
 import 'package:e_commerce_project/views/splash3.dart';
 import 'package:e_commerce_project/views/splash_view.dart';
 import 'package:flutter/material.dart';
